@@ -1,1 +1,31 @@
-# ckod
+<img width="900" height="158" alt="скриншот-1" src="https://github.com/user-attachments/assets/aba3f7f9-3b54-4ca3-8609-cf7e06915746" />
+<img width="188" height="88" alt="код-1" src="https://github.com/user-attachments/assets/479ed7ec-aeef-41e9-b4a7-0b8a1f301ce9" />
+<img width="616" height="78" alt="код-2" src="https://github.com/user-attachments/assets/0000a337-b838-427d-93ef-5e4b0da67a1f" />
+<img width="898" height="684" alt="скриншот-2" src="https://github.com/user-attachments/assets/31e1072f-20f1-423e-9be6-d073b222827c" />
+<img width="445" height="30" alt="код-3" src="https://github.com/user-attachments/assets/c2eed230-4273-46b3-becb-479ea4778d72" />
+<img width="901" height="149" alt="скриншот-3" src="https://github.com/user-attachments/assets/d05cb17d-986e-45cb-8200-6eeb080cd9b2" />
+<img width="477" height="471" alt="код-15" src="https://github.com/user-attachments/assets/f48e71ad-85c8-4a23-9956-d56abb8aea52" />
+<img width="935" height="156" alt="скриншот-15" src="https://github.com/user-attachments/assets/ca42f3ea-ed78-4732-ae23-3310b430c2f3" />
+<img width="355" height="328" alt="код-14" src="https://github.com/user-attachments/assets/ae143406-be8d-40c4-bb8c-1a7aea14d6c4" />
+<img width="932" height="473" alt="скриншот-14" src="https://github.com/user-attachments/assets/6f2c8bd2-de69-4e57-a030-5b23c55d0329" />
+<img width="682" height="358" alt="код-13" src="https://github.com/user-attachments/assets/f0752c94-d4f4-4d81-9e1d-e7840317f7e4" />
+<img width="901" height="176" alt="скриншот-13" src="https://github.com/user-attachments/assets/cac66ff3-5735-48ce-9f0e-ff71c2c5b52a" />
+<img width="511" height="98" alt="код-12" src="https://github.com/user-attachments/assets/7deaf60a-b180-465b-9b8e-6c526193bfaf" />
+<img width="893" height="173" alt="скриншот-12" src="https://github.com/user-attachments/assets/9d3292ee-5732-46b4-b489-7a7177eb6b01" />
+<img width="185" height="73" alt="код-11" src="https://github.com/user-attachments/assets/af77d767-8e0e-4b41-b96a-be8365abb797" />
+<img width="894" height="176" alt="скриншот-11" src="https://github.com/user-attachments/assets/6fce245c-b3ed-4a69-a8ad-d08bfe648b18" />
+<img width="339" height="98" alt="код-10" src="https://github.com/user-attachments/assets/b085734c-0714-4398-89b1-ea5e0766fab7" />
+<img width="901" height="282" alt="скриншот-10" src="https://github.com/user-attachments/assets/cc50a59c-f4ae-4878-bd12-ef3eff5123c4" />
+<img width="298" height="107" alt="код-9" src="https://github.com/user-attachments/assets/cd0a0411-909c-4e73-bb9f-e2cf77669aff" />
+<img width="898" height="432" alt="скриншот-9" src="https://github.com/user-attachments/assets/cd6c3995-8bee-4a12-9b8e-f1e53491e24f" />
+<img width="244" height="74" alt="код-8" src="https://github.com/user-attachments/assets/7d946872-36a8-43fa-9a7e-35a304e84051" />
+<img width="901" height="439" alt="скриншот-8" src="https://github.com/user-attachments/assets/6707e440-d0de-4931-a09c-9346a100aed4" />
+<img width="232" height="78" alt="код-7" src="https://github.com/user-attachments/assets/3858a7a6-929e-43b4-b6de-55883054f144" />
+<img width="904" height="437" alt="скриншот-7" src="https://github.com/user-attachments/assets/45ff98d1-0327-416f-bca0-23c00f5b72d0" />
+<img width="620" height="126" alt="код-6" src="https://github.com/user-attachments/assets/37096312-1810-454f-9888-a59d8caa3b69" />
+<img width="898" height="154" alt="скриншот-6" src="https://github.com/user-attachments/assets/c8fbfb44-bf94-47de-8d57-37e60911a827" />
+<img width="339" height="63" alt="код-5" src="https://github.com/user-attachments/assets/3e436407-d329-4766-8f56-59f1d7fcfe8f" />
+<img width="902" height="201" alt="скриншот-5" src="https://github.com/user-attachments/assets/e21b0b8e-9964-4356-8b37-a4ef8a3d296a" />
+<img width="489" height="90" alt="код-4" src="https://github.com/user-attachments/assets/e9a856f3-cd82-4a68-8039-caad85bd2c3a" />
+<img width="898" height="178" alt="скриншот-4" src="https://github.com/user-attachments/assets/a18ace3e-f945-4606-a807-184c3d8ff735" />
+
